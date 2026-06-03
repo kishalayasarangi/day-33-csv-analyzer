@@ -1,0 +1,101 @@
+student_id,name,age,branch,cgpa,attendance,projects,placement
+1,Student_1,25,Chemical,5.57,78,6,Placed
+2,Student_2,23,Civil,6.97,67,7,Not Placed
+3,Student_3,18,Mechanical,8.72,77,4,Placed
+4,Student_4,19,Mechanical,9.55,95,2,Not Placed
+5,Student_5,19,Mechanical,6.65,89,4,Placed
+6,Student_6,19,Mechanical,7.93,79,1,Not Placed
+7,Student_7,20,Civil,9.6,52,1,Placed
+8,Student_8,24,CSE,5.68,79,8,Not Placed
+9,Student_9,18,Civil,6.58,91,7,Placed
+10,Student_10,21,ECE,6.99,94,9,Placed
+11,Student_11,24,ECE,6.71,66,10,Not Placed
+12,Student_12,19,Chemical,8.1,62,10,Placed
+13,Student_13,20,Chemical,7.72,85,4,Not Placed
+14,Student_14,21,Mechanical,8.18,84,7,Placed
+15,Student_15,20,Chemical,7.84,97,4,Placed
+16,Student_16,20,Chemical,5.48,64,5,Placed
+17,Student_17,23,Civil,8.69,63,4,Not Placed
+18,Student_18,19,Mechanical,5.48,63,7,Not Placed
+19,Student_19,23,Civil,5.96,89,6,Not Placed
+20,Student_20,19,Mechanical,8.18,88,3,Placed
+21,Student_21,25,Chemical,5.04,69,2,Not Placed
+22,Student_22,24,Civil,5.45,80,4,Placed
+23,Student_23,20,Civil,5.22,58,1,Placed
+24,Student_24,21,ECE,6.26,90,0,Placed
+25,Student_25,23,ECE,6.12,84,9,Not Placed
+26,Student_26,23,Civil,9.78,73,7,Placed
+27,Student_27,18,Civil,8.11,53,0,Placed
+28,Student_28,19,ECE,5.35,68,3,Placed
+29,Student_29,25,CSE,9.67,54,8,Placed
+30,Student_30,21,Civil,5.45,63,8,Placed
+31,Student_31,19,Civil,7.95,80,1,Placed
+32,Student_32,20,ECE,7.08,75,8,Placed
+33,Student_33,21,Chemical,8.13,62,1,Not Placed
+34,Student_34,21,Civil,8.14,99,9,Placed
+35,Student_35,23,Chemical,7.82,64,8,Not Placed
+36,Student_36,25,ECE,6.26,95,6,Placed
+37,Student_37,20,ECE,8.32,63,7,Placed
+38,Student_38,25,Chemical,8.15,89,1,Not Placed
+39,Student_39,20,CSE,9.57,75,4,Placed
+40,Student_40,21,Civil,5.85,57,1,Placed
+41,Student_41,24,Chemical,6.08,57,5,Not Placed
+42,Student_42,21,Chemical,8.6,72,5,Placed
+43,Student_43,24,CSE,8.83,78,9,Not Placed
+44,Student_44,19,Chemical,8.46,76,8,Placed
+45,Student_45,25,ECE,6.92,89,5,Placed
+46,Student_46,19,Mechanical,6.07,92,8,Placed
+47,Student_47,21,CSE,7.03,55,5,Placed
+48,Student_48,23,ECE,6.24,57,5,Placed
+49,Student_49,20,ECE,7.92,82,9,Not Placed
+50,Student_50,18,Civil,9.77,65,3,Placed
+51,Student_51,22,Mechanical,8.46,58,8,Placed
+52,Student_52,19,Chemical,8.65,91,4,Placed
+53,Student_53,23,Chemical,5.83,99,4,Placed
+54,Student_54,24,ECE,8.37,99,10,Placed
+55,Student_55,23,ECE,8.49,66,7,Not Placed
+56,Student_56,23,Civil,7.81,50,3,Placed
+57,Student_57,18,ECE,8.62,88,1,Not Placed
+58,Student_58,23,Mechanical,7.74,96,6,Not Placed
+59,Student_59,21,Mechanical,7.39,68,3,Placed
+60,Student_60,22,ECE,9.88,81,0,Placed
+61,Student_61,25,Chemical,9.03,82,10,Placed
+62,Student_62,24,Civil,6.22,68,0,Placed
+63,Student_63,25,CSE,8.23,74,6,Placed
+64,Student_64,22,Chemical,9.57,99,7,Placed
+65,Student_65,23,CSE,9.8,71,9,Not Placed
+66,Student_66,20,Chemical,7.49,92,2,Not Placed
+67,Student_67,25,CSE,9.74,64,4,Placed
+68,Student_68,18,CSE,6.05,55,7,Placed
+69,Student_69,23,CSE,8.67,81,1,Not Placed
+70,Student_70,22,CSE,7.0,70,5,Placed
+71,Student_71,19,Civil,7.91,78,10,Placed
+72,Student_72,25,Mechanical,6.78,97,8,Placed
+73,Student_73,19,Mechanical,5.53,71,10,Placed
+74,Student_74,18,Civil,7.11,69,7,Placed
+75,Student_75,18,Chemical,8.24,67,0,Not Placed
+76,Student_76,23,Chemical,9.63,53,3,Not Placed
+77,Student_77,20,Mechanical,6.16,93,2,Placed
+78,Student_78,18,Civil,5.27,87,0,Not Placed
+79,Student_79,22,CSE,5.76,77,5,Placed
+80,Student_80,18,Mechanical,5.1,93,1,Placed
+81,Student_81,19,Civil,6.43,99,1,Placed
+82,Student_82,19,Chemical,9.07,77,0,Placed
+83,Student_83,22,Civil,8.94,98,3,Placed
+84,Student_84,21,ECE,9.03,85,10,Placed
+85,Student_85,22,ECE,7.87,74,4,Placed
+86,Student_86,19,Civil,9.67,64,2,Not Placed
+87,Student_87,25,ECE,9.73,97,8,Placed
+88,Student_88,25,Civil,9.42,71,8,Not Placed
+89,Student_89,24,ECE,7.68,97,5,Placed
+90,Student_90,18,Civil,5.15,99,0,Placed
+91,Student_91,22,CSE,9.55,72,1,Not Placed
+92,Student_92,18,Chemical,5.5,88,5,Placed
+93,Student_93,25,ECE,6.58,78,7,Placed
+94,Student_94,24,CSE,9.86,65,10,Placed
+95,Student_95,19,CSE,9.87,91,7,Placed
+96,Student_96,19,Mechanical,6.14,77,1,Placed
+97,Student_97,18,Chemical,9.07,68,1,Placed
+98,Student_98,18,ECE,9.35,84,2,Placed
+99,Student_99,20,ECE,6.68,56,5,Not Placed
+100,Student_100,23,CSE,5.04,85,6,Placed
